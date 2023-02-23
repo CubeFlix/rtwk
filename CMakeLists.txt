@@ -10,6 +10,7 @@ set(SOURCES
 	src/sphere.c
 	src/scene.c
 	src/camera.c
+	src/random.c
 )
 
 add_executable(render ${SOURCES})
